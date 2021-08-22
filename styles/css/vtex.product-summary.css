@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(85, 85, 85);
+    border: solid 2px rgb(39, 255, 50);
+    
+}
+.image{
+    width: 300px;
+}
+
+.nameContainer{
+    color: black;
+  
+margin: 0 auto;
+}
+.productBrand{
+    color: black;
+   
+
+}
+.sellingPriceContainer{
+    color: black;
+    margin: 0 auto;
+}
+.buttonContainer{
+    background-color:#424242;
+    border-bottom-left-radius: 0.5px;
+    border-bottom-right-radius: 0.5px;
+}

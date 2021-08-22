@@ -1,0 +1,21 @@
+.imageElement {
+    width: 60%;
+    height: auto;
+    cursor: pointer;
+    display: block;
+    position: relative;
+    border-radius: 40px;
+    margin: 80px;
+    text-align: center;
+    align-items: center;
+}
+.searchBarContainer :global(.vtex-input-prefix__group) {
+    background-color: #212121;
+    border: none;
+    border-radius: 0;
+    width: 500px;
+    border-bottom: 3px solid #fff;
+    text-align: center;
+   
+
+}
